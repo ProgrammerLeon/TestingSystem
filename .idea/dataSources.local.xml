@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="ExamMaster@123.206.204.252" uuid="314f9c51-1b94-432c-9bbf-4fb8d5efbb4a">
+      <database-info product="Microsoft SQL Server" version="11.00.3128" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.0 for SQL Server" driver-version="6.0.8112.100">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>leon</user-name>
+      <introspection-schemas>ExamMaster:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>
